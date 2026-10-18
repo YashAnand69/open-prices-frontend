@@ -1,0 +1,1 @@
+Actual receipt page, identical local intercepted GET fixtures. Baseline99ec43b and contribution4fa2f3a; responsive390px and1280px Chrome screenshots, not physical devices. No production writes or fresh full-suite claim.
